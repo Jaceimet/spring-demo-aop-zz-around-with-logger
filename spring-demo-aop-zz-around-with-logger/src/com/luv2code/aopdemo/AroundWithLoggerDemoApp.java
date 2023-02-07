@@ -34,6 +34,7 @@ public class AroundWithLoggerDemoApp {
 		myLogger.info("\nMy fortune is: " + data);
 		
 		myLogger.info("Finished");
+		
 
 		
 		// close the context
